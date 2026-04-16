@@ -2,11 +2,11 @@ import type { Team } from './team-template';
 
 export const team4: Team = {
   name: "Team 4",
-  pm: "Brigette",
+  pm: "Brigitte",
   members: [
-    { name: "", funFact: "" },
-    { name: "", funFact: "" },
-    { name: "", funFact: "" },
-    { name: "", funFact: "" },
+    { name: "aditi", funFact: "i have a twin" },
+    { name: "Charissa", funFact: "i play piano" },
+    { name: "Melissa", funFact: "i'm from new york" },
+    { name: "Ziyu", funFact: "she is not here" },
   ]
 };
